@@ -1,5 +1,5 @@
 # Shalini Roy
-### Android Developer | Java Developer
+### SDE | Android Developer 
 
 Check out my [Resume](https://drive.google.com/file/d/1kEgSI2Sj9dIpNON1_otx867pQmbWVgHD/view?usp=sharing)
 
